@@ -25,6 +25,7 @@ html {
 }
 
 body {
+    display: flex;
     height: 100vh; /* View Height - Tamanho da tela do navegador */
     /* width: 100vw; */
     background: var(--background);
